@@ -2,7 +2,9 @@
 
 [![An image of @varksvader's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/varksvader)](https://holopin.io/@varksvader)
 
+<!--
 [![Varnika's GitHub stats](https://github-readme-stats.vercel.app/api?username=varksvader&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 **varksvader/varksvader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
